@@ -1,0 +1,9 @@
+name: UnluckyDifficulty
+version: '${project.version}'
+main: me.nojuslopro.unluckydifficulty.Unluckydifficulty
+api-version: 1.19
+commands:
+  randomevent:
+    description: Triggers a random event.
+  randomitem:
+      description: Triggers a random item.
